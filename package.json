@@ -18,7 +18,7 @@
     "install": "^0.13.0",
     "md5": "^2.2.1",
     "mkdir": "0.0.2",
-    "mongoose": "^5.9.6",
+    "mongoose": "^8.8.3",
     "mongoose-encryption": "^2.0.2",
     "mongoose-findorcreate": "^3.0.0",
     "node-pre-gyp": "^0.14.0",
